@@ -22,7 +22,7 @@ public class printCalendar {
 		int year, month, date;
 		
 		if(args.length != 2) {
-			System.out.println("> java.exe Ex01 2010 5 년도, 월 매개변수 필요");
+			System.out.println("> java.exe printCalendar 2010 5 년도, 월 매개변수 필요");
 			return;
 		}//if
 		
